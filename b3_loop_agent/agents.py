@@ -2,7 +2,7 @@ from google.adk.tools import google_search, ToolContext
 from google.adk.agents import Agent, LoopAgent, SequentialAgent
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv() 
 
 # A tool to signal that the loop should terminate
 COMPLETION_PHRASE = "The plan is feasible and meets all constraints."
