@@ -1,3 +1,8 @@
+.adk_env/
+.env
+__pycache__/
+*.pyc
+.DS_Store
 # Virtual Environment
 adk_env/
 .adk_env/
