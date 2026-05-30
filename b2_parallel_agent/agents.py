@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Specialist Agent 1
-museum_finder_agent = Agent(
+museum_finder_agent = Agent( 
+    
     name="museum_finder_agent", model="gemini-2.5-flash", tools=[google_search],
     instruction="You are a museum expert. Find the best museum based on the user's query. Output only the museum's name.",
     output_key="museum_result"
