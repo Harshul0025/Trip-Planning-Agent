@@ -5,7 +5,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # --- Agent Definitions for our Specialist Team ---
-# --- Agent Definition ---
+# --- Agent Definition ---  
+
 
 day_trip_agent = Agent(
     name="day_trip_agent",
