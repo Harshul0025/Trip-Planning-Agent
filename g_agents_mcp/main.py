@@ -7,6 +7,7 @@ from google.adk.runners import Runner
 from google.adk.sessions import InMemorySessionService
 from google.genai.types import Content, Part
 
+
 # Import the new trip agent
 from trip_agent import root_agent
 
