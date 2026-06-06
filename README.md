@@ -6,12 +6,12 @@ A specialized AI agent built with Google's AI Development Kit (ADK) that generat
 
 ## Features
 
-- 🎯 **Personalized Planning**: Generates trip suggestions based on user interests and preferences
-- 📍 **Location-Aware**: Works with city names, addresses, or GPS coordinates
-- 💰 **Budget-Conscious**: Targets moderate budget activities (affordable yet valuable)
-- 🔍 **Real-Time Search**: Uses Google Search to find current events and venues
-- 📅 **Date-Specific**: Plans activities for specific weekend dates
-- 🎨 **Creative Suggestions**: Maximum 3 distinct activities per plan with detailed location information
+-  **Personalized Planning**: Generates trip suggestions based on user interests and preferences
+-  **Location-Aware**: Works with city names, addresses, or GPS coordinates
+-  **Budget-Conscious**: Targets moderate budget activities (affordable yet valuable)
+-  **Real-Time Search**: Uses Google Search to find current events and venues
+-  **Date-Specific**: Plans activities for specific weekend dates
+-  **Creative Suggestions**: Maximum 3 distinct activities per plan with detailed location information
 
 ## Tutorial
 
