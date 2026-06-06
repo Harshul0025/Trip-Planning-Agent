@@ -5,6 +5,7 @@ sources:
     # Path is relative to the mcp-toolbox directory
     database: ../destinations.db
 
+
 tools:
   # Tool 1: Find destinations by their type in a specific city
   find_destinations_by_type:
