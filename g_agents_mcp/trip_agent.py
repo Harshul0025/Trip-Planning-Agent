@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
+
 # Connect to the MCP Toolbox server running on port 7001
 # Note the different port number from the previous lab.
 toolbox = ToolboxSyncClient("http://127.0.0.1:7001")
