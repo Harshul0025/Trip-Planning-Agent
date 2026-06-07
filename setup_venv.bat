@@ -1,7 +1,6 @@
 @echo off
 REM ADK Agent Virtual Environment Setup Script for Windows
 
-
 setlocal enabledelayedexpansion
 
 REM --- Function for error handling ---
