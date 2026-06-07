@@ -5,6 +5,7 @@ import os
 
 DB_FILE = "destinations.db"
 
+
 # Delete the database file if it exists to ensure a clean start
 if os.path.exists(DB_FILE):
     os.remove(DB_FILE)
