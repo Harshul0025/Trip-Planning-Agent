@@ -10,6 +10,7 @@ mkdir -p "$SESSIONS_DIR"
 DB_FILE="$SESSIONS_DIR/adk_web_sessions.db"
 SESSION_URI="sqlite:///$DB_FILE"
 
+
 echo "🗄️ Session database: $DB_FILE"
 echo "📡 Session URI: $SESSION_URI"
 
