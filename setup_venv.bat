@@ -26,7 +26,7 @@ if !errorlevel! neq 0 (
 )
 echo Successfully saved project ID.
 
-echo 🚀 Setting up ADK Agent virtual environment...
+echo   Setting up ADK Agent virtual environment...
 
 REM Check if Python is installed
 python --version >nul 2>&1
